@@ -1,5 +1,7 @@
 myTechlist = ["python","database","azure","reactjs"]
 myTechlist2 = ["Aws",]
+for x in myTechlist:
+    print(x[2])
 # Appending html to myTechlist
 myTechlist.append("html")
 

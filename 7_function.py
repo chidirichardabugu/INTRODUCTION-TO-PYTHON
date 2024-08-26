@@ -6,4 +6,4 @@ def max_num(num1,num2,num3):
     else:
         return num3
     
-    print(max_num(5,7,10))
+print(max_num(5,7,10))
